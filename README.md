@@ -1,7 +1,7 @@
 # REPOSITORI ROBOTIKA
 Nama: Ahmad Nadhif Fikri Syahbana  
 Npm: 22081010139 
-Demo: EAS.mp4  
+Link Demo: Robotik_EAS.mp4
 
 # 🤖 AMBATRON - Automated Monitoring Bot for Anomalies
 
