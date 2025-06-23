@@ -2,6 +2,8 @@
 Ahmad Nadhif Fikri Syahbana
 
 22081010139  
+
+Video : Robotik_EAS.mp4
    
 
 # 🤖 AMBATRON - Automated Monitoring Bot for Anomalies
